@@ -21,4 +21,4 @@ https://jjgarcia1993.github.io/HoriSeon-Challenge/
 Made by Jonathan Garcia.
 
 
-https://user-images.githubusercontent.com/102456485/166116583-c595b6bd-1247-4f01-9e82-c3b2f344b367.png
+![Screenshot (2)](https://user-images.githubusercontent.com/102456485/166116583-c595b6bd-1247-4f01-9e82-c3b2f344b367.png)
