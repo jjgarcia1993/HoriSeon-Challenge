@@ -2,7 +2,7 @@
 
 
 ## Purpose
-A website that promotes Search Enginge Optimization and Accessibility.
+A website that promotes Search Engine Optimization and Accessibility.
 
 
 ## Built With
