@@ -4,8 +4,6 @@
 
     box-sizing: border-box;
 
-    padding: 0;
-
     margin: 0;
 
 }
@@ -172,45 +170,7 @@ p {
 
 /*SEO Section*/
 
- .search-engine-optimization {
-
-    margin-bottom: 20px;
-
-    padding: 50px;
-
-    height: 300px;
-
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-
-    background-color: #0072bb;
-
-    color: #ffffff;
-
-}
-
-
-/*Online Reputation Management Section*/
-
-.online-reputation-management {
-
-    margin-bottom: 20px;
-
-    padding: 50px;
-
-    height: 300px;
-
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-
-    background-color: #0072bb;
-
-    color: #ffffff;
-
-}
-
-
-/*Social Media Marketing Section*/
-
-.social-media-marketing {
+ .business {
 
     margin-bottom: 20px;
 
@@ -229,25 +189,7 @@ p {
 
 /*SEO Image*/
 
-.search-engine-optimization img {
-
-    max-height: 200px;
-
-}
-
-
-/*ORM Image*/
-
-.online-reputation-management img {
-
-    max-height: 200px;
-
-}
-
-
-/*SMM Image*/
-
-.social-media-marketing img {
+.business img {
 
     max-height: 200px;
 
@@ -256,33 +198,11 @@ p {
 
 /*SEO header 2*/
 
-.search-engine-optimization h2 {
+.business h2 {
 
     margin-bottom: 20px;
     
     font-size: 36px;
-}
-
-
-/*ORM Header 2*/
-
-.online-reputation-management h2 {
-
-    margin-bottom: 20px;
-
-    font-size: 36px;
-
-}
-
-
-/*SMM Header 2*/
-
-.social-media-marketing h2 {
-
-    margin-bottom: 20px;
-
-    font-size: 36px;
-
 }
 
 
