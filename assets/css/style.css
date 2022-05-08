@@ -5,10 +5,12 @@
 
     margin: 0;
 }
+
 /*Body*/
 body {
     background-color: #d9dcd6;
 }
+
 /*Header*/
 header {
     padding: 20px;
@@ -16,15 +18,18 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /*Header 1 Edit*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 /*Seo class*/
 header h1 .seo {
     color: #d9dcd6;
 }
+
 /*Navigation*/
 header nav {
     padding-top: 15px;
@@ -34,24 +39,29 @@ header nav {
     font-size: 20px;
     font-weight: bold;
 }
+
 /*Unordered List*/
 header nav ul {
     list-style-type: none;
 }
+
 /*List Item*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 /*Anchors*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
 /*Paragraph Text Size*/
 p {
     font-size: 22px;
 }
+
 /*Hero Section*/
 .hero {
     height: 800px;
@@ -61,16 +71,19 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 /*Float Left for sections*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
 /*Float right for sections*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
+
 /*Content Section*/
 .content {
     width: 75%;
@@ -78,9 +91,10 @@ p {
     margin-left: 20px;
     font-size: 32px;
 }
+
 /*SEO Section*/
 
- .business {
+.business {
 
     margin-bottom: 20px;
     padding: 50px;
@@ -89,12 +103,14 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /*SEO Image*/
 
 .business img {
 
     max-height: 200px;
 }
+
 /*SEO header 2*/
 
 .business h2 {
@@ -117,6 +133,7 @@ p {
 
     background-color: #2589bd;
 }
+
 /*Benefit Lead Section*/
 
 .benefits-specific {
@@ -124,6 +141,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /*Benefit Lead Header 3*/
 
 .benefits-specific h3 {
@@ -131,6 +149,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
 /*Benefit Lead Image*/
 
 .benefits-specific img {
@@ -148,6 +167,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 /*Footer Header 2*/
 footer h2 {
     font-size: 20px;
